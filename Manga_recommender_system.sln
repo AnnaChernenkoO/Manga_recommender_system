@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Manga_recommender_system", "Manga_recommender_system.pyproj", "{F8F42EAC-FAC6-4A85-8D09-AF445B3465A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8F42EAC-FAC6-4A85-8D09-AF445B3465A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F42EAC-FAC6-4A85-8D09-AF445B3465A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8EBAE20-1C9B-49CD-AE5D-A9A302C88571}
+	EndGlobalSection
+EndGlobal
